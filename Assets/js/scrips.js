@@ -146,7 +146,7 @@ $(document).ready(function () {
       })
       .catch((error) => console.error("Error:", error));
     //esto es para que el side pueda aparecer
-    $("#side-preparacion").css("width", "57vh");
+    $("#side-preparacion").css("width", "52vh");
   });
 
   //cerrar side (boton)
